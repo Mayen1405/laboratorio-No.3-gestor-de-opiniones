@@ -1,5 +1,5 @@
 import User from "../User/user.model.js";
-import Product from "../Product/product.model.js"
+
 
 /* usuarios db-validators*/
 
